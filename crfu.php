@@ -9,6 +9,7 @@ echo "
 |TahPetis KediriBlackHat |
 |   tahup62@gmail.com    |      
  _________________________ \n\n";
+{$blue}Testes
 $pat = array("/document/","/documents/","/pdf/","/pdfs/","/cv/","/cvs/",
 "/CV/","/CVS/","/resume/","/resumes/",
 "/upload/","/uploads/","/uploaded/","/uploadify/","/docx/","/docxs/",
