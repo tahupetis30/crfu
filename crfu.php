@@ -2,6 +2,10 @@
 
 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
 echo "
+$green = "\033[0;32m";
+$red = "\033[0;31m";
+$blue = "\033[0;34m";
+$white = "\033[1;37m"; 
  ________________________
 |                        |
 |Career Resume FileUpload|
